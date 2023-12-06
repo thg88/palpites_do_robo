@@ -1,6 +1,6 @@
 # palpites_do_robo
 
-# Descrião do Projeto
+# Descrição do Projeto
 
 Projeto criado com o intuito de realizar a previsão de partidas de futebol usando um Dataset com jogos da temporada 2022 e 2023 do campeonato nacional da Inglaterra (Premier League).
 
