@@ -19,7 +19,7 @@ Arquivo csv com os dados já estruturados.
 **SVC.ipynb**;
 **Logistic Regression.ipynb**
 
-Arquivo com o algoritmo e todos o passo-a-passo usado para chegar ao resultado.
+Arquivo com os algoritmos e todos os passo-a-passo usado para chegar aos resultados.
 
 **scraping.ipynb**
 
