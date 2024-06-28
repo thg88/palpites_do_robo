@@ -9,15 +9,15 @@ Há também um dataset (matches.csv) com dados dos jogos da Premier League que f
 
 # Conteúdo do repositório
 
-**matches.csv**
+**matches.csv**;
 **BRA.csv**
 
 Arquivo csv com os dados já estruturados.
 
-**prediction.ipynb**
-**random_forest.ipynb**
-**SVC.ipynb**
-**logistic_regression.ipynb**
+**prediction.ipynb**;
+**Random Forest.ipynb**;
+**SVC.ipynb**;
+**Logistic Regression.ipynb**
 
 Arquivo com o algoritmo e todos o passo-a-passo usado para chegar ao resultado.
 
