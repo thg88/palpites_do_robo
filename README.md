@@ -25,5 +25,9 @@ Arquivo com os algoritmos e todos os passo-a-passo usado para chegar aos resulta
 
 Passo-a-passo para a extração e manipulação dos dados para deixá-los pronto para uso no algoritmo.
 
+**trabalho_diplomação.doc**
+
+Artigo sobre a pesquisa feita utilizando os algoritmos e os datasets presentes do repositório.
+
 
 
